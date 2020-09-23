@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Regression1(failed)" verbose="0">
+    <classes>
+      <class name="test.Automation.LandingPageTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="landingPageOn"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.Automation.LandingPageTest -->
+      <class name="test.Automation.MakeUpPageTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="checkMakeUpPage"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.Automation.MakeUpPageTest -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

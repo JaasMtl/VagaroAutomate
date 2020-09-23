@@ -1,0 +1,76 @@
+{
+  "uid" : "cb4fb1e40ed0a2ef",
+  "name" : "landingPageOn",
+  "fullName" : "test.Automation.LandingPageTest.landingPageOn",
+  "historyId" : "c98f1217044f8d0c7116cfd10b403d16",
+  "time" : {
+    "start" : 1600654172276,
+    "stop" : 1600654174474,
+    "duration" : 2198
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600654165770,
+      "stop" : 1600654172043,
+      "duration" : 6273
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "test.Automation.LandingPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "test.Automation.LandingPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "landingPageOn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "test.Automation.LandingPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Jasss-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "953@Jasss-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb4fb1e40ed0a2ef.json",
+  "parameterValues" : [ ]
+}

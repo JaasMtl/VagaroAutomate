@@ -1,0 +1,81 @@
+[ {
+  "uid" : "fdad259ef7c31ad6",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1600741709164,
+    "stop" : 1600741709166,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "621a39698789a2e2",
+  "name" : "setUpClass",
+  "time" : {
+    "start" : 1600730733440,
+    "stop" : 1600730733440,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "209c45da7d392e35",
+  "name" : "checkMakeUpPageTest",
+  "time" : {
+    "start" : 1600856347967,
+    "stop" : 1600856349026,
+    "duration" : 1059
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "380d9ca217b19376",
+  "name" : "reviewDetailsTest",
+  "time" : {
+    "start" : 1600512267841,
+    "stop" : 1600512267842,
+    "duration" : 1
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "efc1ba80a12d2e0f",
+  "name" : "landingPageOn",
+  "time" : {
+    "start" : 1600856327776,
+    "stop" : 1600856347858,
+    "duration" : 20082
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2680dd155a2f10c6",
+  "name" : "enterLoginDetails",
+  "time" : {
+    "start" : 1600730777866,
+    "stop" : 1600730777867,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "702b1fb0e755ab96",
+  "name" : "CheckBusinessDetails",
+  "time" : {
+    "start" : 1600730196829,
+    "stop" : 1600730196830,
+    "duration" : 1
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "44e38752503c0084",
+  "name" : "updateProfileDetailsTest",
+  "time" : {
+    "start" : 1600730777872,
+    "stop" : 1600730777874,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

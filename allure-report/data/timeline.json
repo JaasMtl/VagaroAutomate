@@ -1,0 +1,2122 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Jasss-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "2994@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "ecb5d8aba25cb20e",
+        "parentUid" : "7d7f85193cf3c1e7c9cd8de6ad78c8f8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600734285415,
+          "stop" : 1600734305515,
+          "duration" : 20100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "d8dc16f473a4485a",
+        "parentUid" : "7d7f85193cf3c1e7c9cd8de6ad78c8f8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600734305573,
+          "stop" : 1600734307580,
+          "duration" : 2007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d7f85193cf3c1e7c9cd8de6ad78c8f8"
+    }, {
+      "name" : "2289@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "f59b8b576a21d8a1",
+        "parentUid" : "06d97f95ebbefbad563738be62f26daf",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600732612161,
+          "stop" : 1600732612168,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "775ae29ba123ce0d",
+        "parentUid" : "06d97f95ebbefbad563738be62f26daf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600732612131,
+          "stop" : 1600732612132,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "751ae12c93c12510",
+        "parentUid" : "06d97f95ebbefbad563738be62f26daf",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600732581178,
+          "stop" : 1600732581180,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "06d97f95ebbefbad563738be62f26daf"
+    }, {
+      "name" : "3210@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "4521a4b11ff1097",
+        "parentUid" : "88f82b25add48339c1e1021f61016a10",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600734806552,
+          "stop" : 1600734821201,
+          "duration" : 14649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "1df3c86f229a4c97",
+        "parentUid" : "88f82b25add48339c1e1021f61016a10",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600734821277,
+          "stop" : 1600734821301,
+          "duration" : 24
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "88f82b25add48339c1e1021f61016a10"
+    }, {
+      "name" : "1774@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "d369b856dce5480a",
+        "parentUid" : "979f29392d6980614b3fe0f438fb0040",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730424424,
+          "stop" : 1600730424425,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "9c918514cdb147e0",
+        "parentUid" : "979f29392d6980614b3fe0f438fb0040",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730424521,
+          "stop" : 1600730424525,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateProfileDetailsTest",
+        "uid" : "d332ac3bb60ae0fb",
+        "parentUid" : "979f29392d6980614b3fe0f438fb0040",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730424538,
+          "stop" : 1600730424539,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "enterLoginDetails",
+        "uid" : "45c0da871875e80a",
+        "parentUid" : "979f29392d6980614b3fe0f438fb0040",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730424533,
+          "stop" : 1600730424533,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "979f29392d6980614b3fe0f438fb0040"
+    }, {
+      "name" : "1980@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "updateProfileDetailsTest",
+        "uid" : "8aa5341fba8da1b",
+        "parentUid" : "ecdc240186b5e6f53ab68ee51a0756e1",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730733444,
+          "stop" : 1600730733444,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUpClass",
+        "uid" : "621a39698789a2e2",
+        "parentUid" : "ecdc240186b5e6f53ab68ee51a0756e1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730733440,
+          "stop" : 1600730733440,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "enterLoginDetails",
+        "uid" : "889f29c84478ecf0",
+        "parentUid" : "ecdc240186b5e6f53ab68ee51a0756e1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730729956,
+          "stop" : 1600730733356,
+          "duration" : 3400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "8350532e465af8cc",
+        "parentUid" : "ecdc240186b5e6f53ab68ee51a0756e1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730709803,
+          "stop" : 1600730729893,
+          "duration" : 20090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ecdc240186b5e6f53ab68ee51a0756e1"
+    }, {
+      "name" : "1654@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "enterLoginDetails",
+        "uid" : "cd1ef74351ce2e9d",
+        "parentUid" : "811e895f48085eab9d5ed99f83cde0ef",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730317094,
+          "stop" : 1600730317094,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "35e562b8beb61e6d",
+        "parentUid" : "811e895f48085eab9d5ed99f83cde0ef",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730316989,
+          "stop" : 1600730316990,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateProfileDetailsTest",
+        "uid" : "6f45bc17c239b474",
+        "parentUid" : "811e895f48085eab9d5ed99f83cde0ef",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730317101,
+          "stop" : 1600730317102,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "89e5bd13f4dd095d",
+        "parentUid" : "811e895f48085eab9d5ed99f83cde0ef",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730317084,
+          "stop" : 1600730317087,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "811e895f48085eab9d5ed99f83cde0ef"
+    }, {
+      "name" : "2376@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "5e92b0fec5214f29",
+        "parentUid" : "7959c979b6d66b794763c2ab7f117105",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600732736589,
+          "stop" : 1600732736590,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "91f87659a6339530",
+        "parentUid" : "7959c979b6d66b794763c2ab7f117105",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600732770701,
+          "stop" : 1600732770702,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "892f2645f28198ac",
+        "parentUid" : "7959c979b6d66b794763c2ab7f117105",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600732770743,
+          "stop" : 1600732770750,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7959c979b6d66b794763c2ab7f117105"
+    }, {
+      "name" : "3410@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "fdad259ef7c31ad6",
+        "parentUid" : "cd9ac8720d3f0d4ff1997d92955c7a8f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600741709164,
+          "stop" : 1600741709166,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "c5fba27c6a9094e",
+        "parentUid" : "cd9ac8720d3f0d4ff1997d92955c7a8f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600741709263,
+          "stop" : 1600741709265,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "1d2d6f5cc1625350",
+        "parentUid" : "cd9ac8720d3f0d4ff1997d92955c7a8f",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600741709269,
+          "stop" : 1600741709270,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd9ac8720d3f0d4ff1997d92955c7a8f"
+    }, {
+      "name" : "1714@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "setUpClass",
+        "uid" : "1db2808af4c47383",
+        "parentUid" : "7dfa66f3a274bb3f1221ccc2c0214879",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730369639,
+          "stop" : 1600730369640,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "enterLoginDetails",
+        "uid" : "e673cb46858ac7f9",
+        "parentUid" : "7dfa66f3a274bb3f1221ccc2c0214879",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730367608,
+          "stop" : 1600730369623,
+          "duration" : 2015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateProfileDetailsTest",
+        "uid" : "f1ba0d9df1c0cba6",
+        "parentUid" : "7dfa66f3a274bb3f1221ccc2c0214879",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730369648,
+          "stop" : 1600730369649,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "8b4b8642afc94369",
+        "parentUid" : "7dfa66f3a274bb3f1221ccc2c0214879",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730355832,
+          "stop" : 1600730367555,
+          "duration" : 11723
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7dfa66f3a274bb3f1221ccc2c0214879"
+    }, {
+      "name" : "939@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "83eb03d161bde32d",
+        "parentUid" : "7f8629de5a3d096cc71b48ebe41427e0",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600727978368,
+          "stop" : 1600727978373,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "a1f491eb13d658ee",
+        "parentUid" : "7f8629de5a3d096cc71b48ebe41427e0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600727978333,
+          "stop" : 1600727978334,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "369694e61c827a42",
+        "parentUid" : "7f8629de5a3d096cc71b48ebe41427e0",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600727945460,
+          "stop" : 1600727945461,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f8629de5a3d096cc71b48ebe41427e0"
+    }, {
+      "name" : "1585@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "702b1fb0e755ab96",
+        "parentUid" : "15610b9d6c7fe319052411ccf20eed92",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600730196829,
+          "stop" : 1600730196830,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "3f35949040325435",
+        "parentUid" : "15610b9d6c7fe319052411ccf20eed92",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730209565,
+          "stop" : 1600730230145,
+          "duration" : 20580
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "15610b9d6c7fe319052411ccf20eed92"
+    }, {
+      "name" : "864@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "70e3188babc5b47",
+        "parentUid" : "1577ad2867360864b0692be456a3e127",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600727891317,
+          "stop" : 1600727891320,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "f0c552bcccad1218",
+        "parentUid" : "1577ad2867360864b0692be456a3e127",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600727853123,
+          "stop" : 1600727853125,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "4c13ecccdc28ce25",
+        "parentUid" : "1577ad2867360864b0692be456a3e127",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600727891273,
+          "stop" : 1600727891275,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1577ad2867360864b0692be456a3e127"
+    }, {
+      "name" : "953@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "eeac520c8a0f2103",
+        "parentUid" : "48d1311d1cef3c7ad8f896f95f39c657",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600654174538,
+          "stop" : 1600654196898,
+          "duration" : 22360
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "cb4fb1e40ed0a2ef",
+        "parentUid" : "48d1311d1cef3c7ad8f896f95f39c657",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600654172276,
+          "stop" : 1600654174474,
+          "duration" : 2198
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "48d1311d1cef3c7ad8f896f95f39c657"
+    }, {
+      "name" : "2596@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "91cea027c443129f",
+        "parentUid" : "63f0884704047d013b7eb3725d0476e5",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600733272565,
+          "stop" : 1600733272568,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "deabc855d4c24f0e",
+        "parentUid" : "63f0884704047d013b7eb3725d0476e5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600733272466,
+          "stop" : 1600733272467,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "f4da0c6467be6a8b",
+        "parentUid" : "63f0884704047d013b7eb3725d0476e5",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600733272576,
+          "stop" : 1600733272577,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "63f0884704047d013b7eb3725d0476e5"
+    }, {
+      "name" : "2051@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "e3a2c1e3d1735619",
+        "parentUid" : "355f142ccb908324c3f19fd5c3c5a0bb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730777696,
+          "stop" : 1600730777697,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "a1c2e5daa11ea5c5",
+        "parentUid" : "355f142ccb908324c3f19fd5c3c5a0bb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730777857,
+          "stop" : 1600730777861,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "enterLoginDetails",
+        "uid" : "2680dd155a2f10c6",
+        "parentUid" : "355f142ccb908324c3f19fd5c3c5a0bb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730777866,
+          "stop" : 1600730777867,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateProfileDetailsTest",
+        "uid" : "44e38752503c0084",
+        "parentUid" : "355f142ccb908324c3f19fd5c3c5a0bb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730777872,
+          "stop" : 1600730777874,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "355f142ccb908324c3f19fd5c3c5a0bb"
+    }, {
+      "name" : "1102@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "e421319157a3ec29",
+        "parentUid" : "492619ca82617125bcbe67c5b950b056",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600728368100,
+          "stop" : 1600728368102,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "6b5e3431f6b8251a",
+        "parentUid" : "492619ca82617125bcbe67c5b950b056",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600728319865,
+          "stop" : 1600728319866,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "728623eb6c4dfaa0",
+        "parentUid" : "492619ca82617125bcbe67c5b950b056",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600728368061,
+          "stop" : 1600728368062,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "492619ca82617125bcbe67c5b950b056"
+    }, {
+      "name" : "1903@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "updateProfileDetailsTest",
+        "uid" : "a3df2cfbd735c5aa",
+        "parentUid" : "1df1c112ae51ba6907130a517c37b08b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730599078,
+          "stop" : 1600730599079,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUpClass",
+        "uid" : "635cc5cd1d8b729a",
+        "parentUid" : "1df1c112ae51ba6907130a517c37b08b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730599072,
+          "stop" : 1600730599073,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "enterLoginDetails",
+        "uid" : "7ce73942df8236f0",
+        "parentUid" : "1df1c112ae51ba6907130a517c37b08b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730556907,
+          "stop" : 1600730579007,
+          "duration" : 22100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "8d91084f961bcd73",
+        "parentUid" : "1df1c112ae51ba6907130a517c37b08b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730536754,
+          "stop" : 1600730556848,
+          "duration" : 20094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1df1c112ae51ba6907130a517c37b08b"
+    }, {
+      "name" : "1397@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "f9ef7030fb2a63cc",
+        "parentUid" : "7b2d1e78bc4415f94ecb221df16828d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600729893219,
+          "stop" : 1600729893220,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "ffc6b81aa73db0bb",
+        "parentUid" : "7b2d1e78bc4415f94ecb221df16828d1",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600729893246,
+          "stop" : 1600729893248,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "721ce558f8cbc976",
+        "parentUid" : "7b2d1e78bc4415f94ecb221df16828d1",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600729859367,
+          "stop" : 1600729859368,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b2d1e78bc4415f94ecb221df16828d1"
+    }, {
+      "name" : "3333@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "3f634cbec105d489",
+        "parentUid" : "1db287b69c308fbdc02c968af1a186f0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600741591899,
+          "stop" : 1600741592959,
+          "duration" : 1060
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "c2c2a650b68c3344",
+        "parentUid" : "1db287b69c308fbdc02c968af1a186f0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600741571731,
+          "stop" : 1600741591827,
+          "duration" : 20096
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1db287b69c308fbdc02c968af1a186f0"
+    }, {
+      "name" : "2210@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "74c35f752c7b2f28",
+        "parentUid" : "72c6e2310b27d270d3af14db3531ba24",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600731665993,
+          "stop" : 1600731665995,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "fa60e00955b3bd7d",
+        "parentUid" : "72c6e2310b27d270d3af14db3531ba24",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600731665963,
+          "stop" : 1600731665964,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "f510e0c87f78401c",
+        "parentUid" : "72c6e2310b27d270d3af14db3531ba24",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600731620623,
+          "stop" : 1600731620624,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72c6e2310b27d270d3af14db3531ba24"
+    }, {
+      "name" : "2837@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "be5e83e5ba695496",
+        "parentUid" : "47b203c7bef17af522eb29dfe2d64c3a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600734026892,
+          "stop" : 1600734047000,
+          "duration" : 20108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "7ba9bda39873596f",
+        "parentUid" : "47b203c7bef17af522eb29dfe2d64c3a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600734047064,
+          "stop" : 1600734049075,
+          "duration" : 2011
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47b203c7bef17af522eb29dfe2d64c3a"
+    }, {
+      "name" : "2931@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "3888ce51d820db9a",
+        "parentUid" : "02421d04e596460513ea1bb8286ac4b8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600734262662,
+          "stop" : 1600734262663,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "8ae58f8ca528f751",
+        "parentUid" : "02421d04e596460513ea1bb8286ac4b8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600734262565,
+          "stop" : 1600734262567,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "bdcdc12c62d7d8e2",
+        "parentUid" : "02421d04e596460513ea1bb8286ac4b8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600734262655,
+          "stop" : 1600734262658,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "02421d04e596460513ea1bb8286ac4b8"
+    }, {
+      "name" : "1843@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "updateProfileDetailsTest",
+        "uid" : "f3c72693b538e24c",
+        "parentUid" : "7025b5837859f06b9b4484157eafb3a4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730493470,
+          "stop" : 1600730493471,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "enterLoginDetails",
+        "uid" : "d9e1654c2dea1499",
+        "parentUid" : "7025b5837859f06b9b4484157eafb3a4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730493466,
+          "stop" : 1600730493467,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "d4fb270eb6611d5b",
+        "parentUid" : "7025b5837859f06b9b4484157eafb3a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730493297,
+          "stop" : 1600730493302,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "8842810cf98b293",
+        "parentUid" : "7025b5837859f06b9b4484157eafb3a4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730493458,
+          "stop" : 1600730493461,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7025b5837859f06b9b4484157eafb3a4"
+    }, {
+      "name" : "2523@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "88324ed6e703aca2",
+        "parentUid" : "75f7639b00c4eae9ec788ff2cdad4d60",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600733008796,
+          "stop" : 1600733008798,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "ed579d4a84c5b913",
+        "parentUid" : "75f7639b00c4eae9ec788ff2cdad4d60",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600733008715,
+          "stop" : 1600733008716,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "b292bbfda54fcc76",
+        "parentUid" : "75f7639b00c4eae9ec788ff2cdad4d60",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600733008806,
+          "stop" : 1600733008807,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "75f7639b00c4eae9ec788ff2cdad4d60"
+    }, {
+      "name" : "2658@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "2b729d8325003927",
+        "parentUid" : "26da247db5bac46c03c7690631a1ccea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600733349402,
+          "stop" : 1600733361541,
+          "duration" : 12139
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "59027911421b723b",
+        "parentUid" : "26da247db5bac46c03c7690631a1ccea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600733361606,
+          "stop" : 1600733361609,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "26da247db5bac46c03c7690631a1ccea"
+    }, {
+      "name" : "2447@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "8a4142254ff915b8",
+        "parentUid" : "fc061038af67f466b9bcf758d52dc6d7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600732908550,
+          "stop" : 1600732908551,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "f05f1969e6005871",
+        "parentUid" : "fc061038af67f466b9bcf758d52dc6d7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600732908535,
+          "stop" : 1600732908542,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "c68e3d63b39f949",
+        "parentUid" : "fc061038af67f466b9bcf758d52dc6d7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600732908429,
+          "stop" : 1600732908431,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc061038af67f466b9bcf758d52dc6d7"
+    }, {
+      "name" : "1267@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "f5cfc831878ab1ed",
+        "parentUid" : "f6e02b92879463ad26149cf143e3b0b5",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600729294921,
+          "stop" : 1600729294924,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "3c8808e36d9bc74b",
+        "parentUid" : "f6e02b92879463ad26149cf143e3b0b5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600729294876,
+          "stop" : 1600729294877,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "4ebd72fa1c195e2a",
+        "parentUid" : "f6e02b92879463ad26149cf143e3b0b5",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600729262566,
+          "stop" : 1600729262568,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6e02b92879463ad26149cf143e3b0b5"
+    }, {
+      "name" : "1172@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "856dfb234b3d92ec",
+        "parentUid" : "74506d6ed7f03b7867fe776af07a9542",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600728493612,
+          "stop" : 1600728493613,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "fee84c6b445fa722",
+        "parentUid" : "74506d6ed7f03b7867fe776af07a9542",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600728456385,
+          "stop" : 1600728456387,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "3ec8672f02d88ea",
+        "parentUid" : "74506d6ed7f03b7867fe776af07a9542",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600728493664,
+          "stop" : 1600728493667,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "74506d6ed7f03b7867fe776af07a9542"
+    }, {
+      "name" : "788@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "6cd14bcdee9a819e",
+        "parentUid" : "4009711c9f15e2e177aee558898c5c66",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600727756583,
+          "stop" : 1600727756584,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "333dfa99cf83d8ff",
+        "parentUid" : "4009711c9f15e2e177aee558898c5c66",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600727768991,
+          "stop" : 1600727789201,
+          "duration" : 20210
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4009711c9f15e2e177aee558898c5c66"
+    }, {
+      "name" : "872@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "3e990fd75ac01fef",
+        "parentUid" : "cf230aaee4fb6ed487e4f67f72bf653c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600653939254,
+          "stop" : 1600653951528,
+          "duration" : 12274
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "f521009e9bcd137a",
+        "parentUid" : "cf230aaee4fb6ed487e4f67f72bf653c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600653936999,
+          "stop" : 1600653939154,
+          "duration" : 2155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf230aaee4fb6ed487e4f67f72bf653c"
+    }, {
+      "name" : "1034@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "9513fe92a7129733",
+        "parentUid" : "f3a9a37fc0d2c61578f4cc756f95c4d8",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600728246823,
+          "stop" : 1600728246825,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "16f3e55898931247",
+        "parentUid" : "f3a9a37fc0d2c61578f4cc756f95c4d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600728254404,
+          "stop" : 1600728274499,
+          "duration" : 20095
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3a9a37fc0d2c61578f4cc756f95c4d8"
+    }, {
+      "name" : "2756@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "75646b87334db52f",
+        "parentUid" : "613f9466a7abb8e9827953111ecf38eb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600733862298,
+          "stop" : 1600733882386,
+          "duration" : 20088
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "4fdba856b61a2967",
+        "parentUid" : "613f9466a7abb8e9827953111ecf38eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600733882481,
+          "stop" : 1600733884489,
+          "duration" : 2008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "613f9466a7abb8e9827953111ecf38eb"
+    }, {
+      "name" : "3067@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "f420874c4e674e60",
+        "parentUid" : "0793d91999dbe108ea71fa804fe03dd2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600734578910,
+          "stop" : 1600734580920,
+          "duration" : 2010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "93cfa0967d1b151",
+        "parentUid" : "0793d91999dbe108ea71fa804fe03dd2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600734558735,
+          "stop" : 1600734578825,
+          "duration" : 20090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0793d91999dbe108ea71fa804fe03dd2"
+    }, {
+      "name" : "1479@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "c8486ed7c551c6f3",
+        "parentUid" : "407e17b1a85ec1bbcc75a6821649a183",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730000500,
+          "stop" : 1600730000501,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "97c153d07c0da2db",
+        "parentUid" : "407e17b1a85ec1bbcc75a6821649a183",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600730000538,
+          "stop" : 1600730000548,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "663720a1d3321ae2",
+        "parentUid" : "407e17b1a85ec1bbcc75a6821649a183",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600729967518,
+          "stop" : 1600729967519,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "407e17b1a85ec1bbcc75a6821649a183"
+    }, {
+      "name" : "3138@Jasss-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "104617e4c5c40bad",
+        "parentUid" : "adcaf3d6f37280c49fb6aaa1f711b687",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600734722119,
+          "stop" : 1600734724125,
+          "duration" : 2006
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "9590551c42f5e863",
+        "parentUid" : "adcaf3d6f37280c49fb6aaa1f711b687",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600734701943,
+          "stop" : 1600734722045,
+          "duration" : 20102
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "adcaf3d6f37280c49fb6aaa1f711b687"
+    } ],
+    "uid" : "74369a85e941c97cc5de98658ff51a7e"
+  }, {
+    "name" : "jasss-mbp.wireless.concordia.ca",
+    "children" : [ {
+      "name" : "3074@jasss-mbp.wireless.concordia.ca.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "836f6626d187672f",
+        "parentUid" : "eb596ebd036a3bb593ae0b306ce03d5c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600515234500,
+          "stop" : 1600515234501,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "69da3b8142fd6665",
+        "parentUid" : "eb596ebd036a3bb593ae0b306ce03d5c",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600515234590,
+          "stop" : 1600515234591,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "ca817aad1412baff",
+        "parentUid" : "eb596ebd036a3bb593ae0b306ce03d5c",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600515234584,
+          "stop" : 1600515234586,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb596ebd036a3bb593ae0b306ce03d5c"
+    }, {
+      "name" : "3870@jasss-mbp.wireless.concordia.ca.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "9c8df3934e0f8a47",
+        "parentUid" : "1d0dd962558ddc77cdb41e1d41639c47",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600519341081,
+          "stop" : 1600519341088,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "9dcfb5e671379a57",
+        "parentUid" : "1d0dd962558ddc77cdb41e1d41639c47",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600519341001,
+          "stop" : 1600519341003,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "b9d1cebe398d586e",
+        "parentUid" : "1d0dd962558ddc77cdb41e1d41639c47",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600519341092,
+          "stop" : 1600519341093,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1d0dd962558ddc77cdb41e1d41639c47"
+    } ],
+    "uid" : "6c7e9f4498ced9cb4efe4ddb703fa9e7"
+  }, {
+    "name" : "Jasss-MBP",
+    "children" : [ {
+      "name" : "2471@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "7b0b3cb0624e91cc",
+        "parentUid" : "4ab105100eea25a25919e0c9fc665101",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600513508675,
+          "stop" : 1600513510826,
+          "duration" : 2151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "8d0e9f82f06d9d25",
+        "parentUid" : "4ab105100eea25a25919e0c9fc665101",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600513510890,
+          "stop" : 1600513534946,
+          "duration" : 24056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ab105100eea25a25919e0c9fc665101"
+    }, {
+      "name" : "999@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "209c45da7d392e35",
+        "parentUid" : "2e88c5bdc5a54e02ae2e249e0fa97da9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600856347967,
+          "stop" : 1600856349026,
+          "duration" : 1059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "efc1ba80a12d2e0f",
+        "parentUid" : "2e88c5bdc5a54e02ae2e249e0fa97da9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600856327776,
+          "stop" : 1600856347858,
+          "duration" : 20082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e88c5bdc5a54e02ae2e249e0fa97da9"
+    }, {
+      "name" : "3360@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "15a664beb218741e",
+        "parentUid" : "e96cc30cad69ecc373f5456669cd8b94",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600515435138,
+          "stop" : 1600515437307,
+          "duration" : 2169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "4134f7b6dafc25e9",
+        "parentUid" : "e96cc30cad69ecc373f5456669cd8b94",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600515437363,
+          "stop" : 1600515459417,
+          "duration" : 22054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e96cc30cad69ecc373f5456669cd8b94"
+    }, {
+      "name" : "2711@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "f2c3f55a267259d2",
+        "parentUid" : "266482993cfe1482fff4b65db1064753",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600514008998,
+          "stop" : 1600514031106,
+          "duration" : 22108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "5e2b6cc1d5884c8f",
+        "parentUid" : "266482993cfe1482fff4b65db1064753",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600514006781,
+          "stop" : 1600514008936,
+          "duration" : 2155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "266482993cfe1482fff4b65db1064753"
+    }, {
+      "name" : "2920@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "4b42a0384dc66d27",
+        "parentUid" : "6b01d7bdc1d53391cbe87ef44a5687c9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600514478557,
+          "stop" : 1600514502613,
+          "duration" : 24056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "ad3eac1761b0bcef",
+        "parentUid" : "6b01d7bdc1d53391cbe87ef44a5687c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600514476206,
+          "stop" : 1600514478496,
+          "duration" : 2290
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6b01d7bdc1d53391cbe87ef44a5687c9"
+    }, {
+      "name" : "2072@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "f542f1fd96eccece",
+        "parentUid" : "eec6fec7493e40000c2c68fcd1fc5240",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600512300582,
+          "stop" : 1600512300583,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "reviewDetailsTest",
+        "uid" : "380d9ca217b19376",
+        "parentUid" : "eec6fec7493e40000c2c68fcd1fc5240",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600512267841,
+          "stop" : 1600512267842,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "f69bfdccb2abff4f",
+        "parentUid" : "eec6fec7493e40000c2c68fcd1fc5240",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600512300613,
+          "stop" : 1600512300615,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eec6fec7493e40000c2c68fcd1fc5240"
+    }, {
+      "name" : "3281@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "bd7f84178acc3d67",
+        "parentUid" : "2c2ef7d9d76523947d96778b8d3e914a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600515352278,
+          "stop" : 1600515354435,
+          "duration" : 2157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "92cfa79455442067",
+        "parentUid" : "2c2ef7d9d76523947d96778b8d3e914a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600515354500,
+          "stop" : 1600515358540,
+          "duration" : 4040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c2ef7d9d76523947d96778b8d3e914a"
+    }, {
+      "name" : "2646@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "e483395e17c7f486",
+        "parentUid" : "20c2e60479affa47e3e2f781559e31ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600513958018,
+          "stop" : 1600513960195,
+          "duration" : 2177
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "27b2dff87ad775de",
+        "parentUid" : "20c2e60479affa47e3e2f781559e31ef",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600513960260,
+          "stop" : 1600513984322,
+          "duration" : 24062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "20c2e60479affa47e3e2f781559e31ef"
+    }, {
+      "name" : "3509@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "8d39bf03d0f80111",
+        "parentUid" : "a19fe94991949605491a00ec45f8d80f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600516164421,
+          "stop" : 1600516166581,
+          "duration" : 2160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "2bb96da749623720",
+        "parentUid" : "a19fe94991949605491a00ec45f8d80f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600516166635,
+          "stop" : 1600516188689,
+          "duration" : 22054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a19fe94991949605491a00ec45f8d80f"
+    }, {
+      "name" : "3589@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "2412c3e0f0b4b48c",
+        "parentUid" : "c8d69a9474522842eeff871f2cfb33c1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600516286711,
+          "stop" : 1600516289013,
+          "duration" : 2302
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "3960a3a9ecb59101",
+        "parentUid" : "c8d69a9474522842eeff871f2cfb33c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600516284497,
+          "stop" : 1600516286652,
+          "duration" : 2155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c8d69a9474522842eeff871f2cfb33c1"
+    }, {
+      "name" : "2249@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "5cc646424fdcbed1",
+        "parentUid" : "f8dfc931e737ec3675c9c97e319c3666",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600513210666,
+          "stop" : 1600513210667,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "21cd770ca1ba56e",
+        "parentUid" : "f8dfc931e737ec3675c9c97e319c3666",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600513210772,
+          "stop" : 1600513210772,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "dc8d0bc4d4dea41c",
+        "parentUid" : "f8dfc931e737ec3675c9c97e319c3666",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600513210766,
+          "stop" : 1600513210768,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f8dfc931e737ec3675c9c97e319c3666"
+    }, {
+      "name" : "3209@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "ff044e5773646a04",
+        "parentUid" : "963769c5ab892111998aada487231da4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600515292493,
+          "stop" : 1600515294659,
+          "duration" : 2166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "4002a82bf0b278ff",
+        "parentUid" : "963769c5ab892111998aada487231da4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600515294717,
+          "stop" : 1600515299752,
+          "duration" : 5035
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "963769c5ab892111998aada487231da4"
+    }, {
+      "name" : "2406@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "e98f6310bca0ac22",
+        "parentUid" : "da86b2d10576738870f843d16ac92887",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600513455220,
+          "stop" : 1600513457360,
+          "duration" : 2140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "5f3ed113939c6183",
+        "parentUid" : "da86b2d10576738870f843d16ac92887",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600513457439,
+          "stop" : 1600513481519,
+          "duration" : 24080
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da86b2d10576738870f843d16ac92887"
+    }, {
+      "name" : "2330@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "7006a5ac03232035",
+        "parentUid" : "7b243980589fcddd68a07625fc68a0c2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600513344967,
+          "stop" : 1600513344969,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "93bed677c487471a",
+        "parentUid" : "7b243980589fcddd68a07625fc68a0c2",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600513345079,
+          "stop" : 1600513345080,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "b28d2bc0805530aa",
+        "parentUid" : "7b243980589fcddd68a07625fc68a0c2",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600513345073,
+          "stop" : 1600513345075,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b243980589fcddd68a07625fc68a0c2"
+    }, {
+      "name" : "3422@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "b1a47c0f260cb20c",
+        "parentUid" : "4b6cc466bf056633ef6645c81ba7343c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600515471119,
+          "stop" : 1600515473274,
+          "duration" : 2155
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "50a0527601c2aa18",
+        "parentUid" : "4b6cc466bf056633ef6645c81ba7343c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600515473339,
+          "stop" : 1600515475668,
+          "duration" : 2329
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4b6cc466bf056633ef6645c81ba7343c"
+    }, {
+      "name" : "2567@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "d536cf72de19be1",
+        "parentUid" : "9b9776acfa75a5a5bcfb2111bebdf61e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600513786686,
+          "stop" : 1600513788843,
+          "duration" : 2157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "b6cb7098c4dc618b",
+        "parentUid" : "9b9776acfa75a5a5bcfb2111bebdf61e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600513788906,
+          "stop" : 1600513813089,
+          "duration" : 24183
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b9776acfa75a5a5bcfb2111bebdf61e"
+    }, {
+      "name" : "3134@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "17c91ec46923d998",
+        "parentUid" : "00b358f3e1a3b9b01871b3961880ae32",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600515281732,
+          "stop" : 1600515281733,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "713e9ba3e8168312",
+        "parentUid" : "00b358f3e1a3b9b01871b3961880ae32",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600515281819,
+          "stop" : 1600515281821,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CheckBusinessDetails",
+        "uid" : "ffda04da96aaf429",
+        "parentUid" : "00b358f3e1a3b9b01871b3961880ae32",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600515281826,
+          "stop" : 1600515281830,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "00b358f3e1a3b9b01871b3961880ae32"
+    }, {
+      "name" : "2859@Jasss-MBP.main(1)",
+      "children" : [ {
+        "name" : "CheckBusinessDetails",
+        "uid" : "28e8042296d0c21f",
+        "parentUid" : "7719c482e9f0f7349c361e8710ad22cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600514441099,
+          "stop" : 1600514465174,
+          "duration" : 24075
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "landingPageOn",
+        "uid" : "f2b1432e677007ff",
+        "parentUid" : "7719c482e9f0f7349c361e8710ad22cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600514438891,
+          "stop" : 1600514441045,
+          "duration" : 2154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7719c482e9f0f7349c361e8710ad22cb"
+    } ],
+    "uid" : "8a295dab68694bcae4c106a30ef88eab"
+  } ]
+}

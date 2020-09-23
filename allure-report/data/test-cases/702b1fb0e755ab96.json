@@ -1,0 +1,313 @@
+{
+  "uid" : "702b1fb0e755ab96",
+  "name" : "CheckBusinessDetails",
+  "fullName" : "test.Automation.ListBusinessPageTest.CheckBusinessDetails",
+  "historyId" : "172e14f0c50eede79ae31cda7cc046b5",
+  "time" : {
+    "start" : 1600730196829,
+    "stop" : 1600730196830,
+    "duration" : 1
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "test.Automation.ListBusinessPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "test.Automation.ListBusinessPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckBusinessDetails"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "test.Automation.ListBusinessPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Jasss-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "1585@Jasss-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "663720a1d3321ae2",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600729967518,
+        "stop" : 1600729967519,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "721ce558f8cbc976",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600729859367,
+        "stop" : 1600729859368,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4ebd72fa1c195e2a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600729262566,
+        "stop" : 1600729262568,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "fee84c6b445fa722",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600728456385,
+        "stop" : 1600728456387,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6b5e3431f6b8251a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600728319865,
+        "stop" : 1600728319866,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9513fe92a7129733",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600728246823,
+        "stop" : 1600728246825,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "369694e61c827a42",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600727945460,
+        "stop" : 1600727945461,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f0c552bcccad1218",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600727853123,
+        "stop" : 1600727853125,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6cd14bcdee9a819e",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600727756583,
+        "stop" : 1600727756584,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eeac520c8a0f2103",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"link text\",\"selector\":\"Coaching\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MacBook-Pro.local', ip: 'fe80:0:0:0:14af:e444:cfcd:9758%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:49814}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 411a3f9e8538ef0a78b5c78950f43aae\n*** Element info: {Using=link text, value=Coaching}",
+      "time" : {
+        "start" : 1600654174538,
+        "stop" : 1600654196898,
+        "duration" : 22360
+      }
+    }, {
+      "uid" : "3e990fd75ac01fef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600653939254,
+        "stop" : 1600653951528,
+        "duration" : 12274
+      }
+    }, {
+      "uid" : "b9d1cebe398d586e",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#footerdiv > div.normal-footer > div.footer-div.w-clearfix > section.footer-25-div.footer-end > a\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'jasss-mbp.wireless.concordia.ca', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:58919}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bcb86a26b52b9f55edd2df0d57246c0d\n*** Element info: {Using=css selector, value=#footerdiv > div.normal-footer > div.footer-div.w-clearfix > section.footer-25-div.footer-end > a}",
+      "time" : {
+        "start" : 1600519341092,
+        "stop" : 1600519341093,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2412c3e0f0b4b48c",
+      "status" : "broken",
+      "statusDetails" : "no such window\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:58002}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 906b7267abd13550b7e732e05fcfddc7",
+      "time" : {
+        "start" : 1600516286711,
+        "stop" : 1600516289013,
+        "duration" : 2302
+      }
+    }, {
+      "uid" : "2bb96da749623720",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.mid-nav > div:nth-child(1) > div:nth-child(2)\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:57864}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7939e1e6ffb47e7c858b812bc901199d\n*** Element info: {Using=css selector, value=div.mid-nav > div:nth-child(1) > div:nth-child(2)}",
+      "time" : {
+        "start" : 1600516166635,
+        "stop" : 1600516188689,
+        "duration" : 22054
+      }
+    }, {
+      "uid" : "50a0527601c2aa18",
+      "status" : "broken",
+      "statusDetails" : "no such window\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:57670}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9090fb7a8b94ffc34c244901fafc8a2d",
+      "time" : {
+        "start" : 1600515473339,
+        "stop" : 1600515475668,
+        "duration" : 2329
+      }
+    }, {
+      "uid" : "4134f7b6dafc25e9",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.mid-nav > div:nth-child(1) > div:nth-child(2)\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:57575}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 086b85aee5e654756f1ce102f2f746ed\n*** Element info: {Using=css selector, value=div.mid-nav > div:nth-child(1) > div:nth-child(2)}",
+      "time" : {
+        "start" : 1600515437363,
+        "stop" : 1600515459417,
+        "duration" : 22054
+      }
+    }, {
+      "uid" : "92cfa79455442067",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:57453}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 492994efe2cbf3509c7dcec51a4a926c",
+      "time" : {
+        "start" : 1600515354500,
+        "stop" : 1600515358540,
+        "duration" : 4040
+      }
+    }, {
+      "uid" : "4002a82bf0b278ff",
+      "status" : "broken",
+      "statusDetails" : "no such window\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:57335}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b1a030e6d237ae11d36cbcb5314a69ee",
+      "time" : {
+        "start" : 1600515294717,
+        "stop" : 1600515299752,
+        "duration" : 5035
+      }
+    }, {
+      "uid" : "ffda04da96aaf429",
+      "status" : "skipped",
+      "statusDetails" : "Cannot locate an element using css selector=#footerdiv > div.normal-footer > div.footer-div.w-clearfix > section.footer-25-div.footer-end > a\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1600515281826,
+        "stop" : 1600515281830,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "69da3b8142fd6665",
+      "status" : "skipped",
+      "statusDetails" : "Cannot locate an element using css selector=#footerdiv > div.normal-footer > div.footer-div.w-clearfix > section.footer-25-div.footer-end > a\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'jasss-mbp.wireless.concordia.ca', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1600515234590,
+        "stop" : 1600515234591,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4b42a0384dc66d27",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.mid-nav > div:nth-child(1) > div:nth-child(2)\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:55571}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 510a4ee9b5e8122a30edb32992a99c90\n*** Element info: {Using=css selector, value=div.mid-nav > div:nth-child(1) > div:nth-child(2)}",
+      "time" : {
+        "start" : 1600514478557,
+        "stop" : 1600514502613,
+        "duration" : 24056
+      }
+    }, {
+      "uid" : "28e8042296d0c21f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.mid-nav > div:nth-child(1) > div:nth-child(2)\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:55472}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f35ac3c243bdd83a4eb031c077fe2616\n*** Element info: {Using=css selector, value=div.mid-nav > div:nth-child(1) > div:nth-child(2)}",
+      "time" : {
+        "start" : 1600514441099,
+        "stop" : 1600514465174,
+        "duration" : 24075
+      }
+    }, {
+      "uid" : "f2c3f55a267259d2",
+      "status" : "broken",
+      "statusDetails" : "Cannot locate an element using css selector=div.mid-nav > div:nth-child(1) > div:nth-child(2)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1600514008998,
+        "stop" : 1600514031106,
+        "duration" : 22108
+      }
+    }, {
+      "uid" : "27b2dff87ad775de",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.mid-nav > div:nth-child(1) > div:nth-child(2)\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:54912}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 68223bf77d39f3074acb4bffea473763\n*** Element info: {Using=css selector, value=div.mid-nav > div:nth-child(1) > div:nth-child(2)}",
+      "time" : {
+        "start" : 1600513960260,
+        "stop" : 1600513984322,
+        "duration" : 24062
+      }
+    }, {
+      "uid" : "b6cb7098c4dc618b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.mid-nav > div:nth-child(1) > div:nth-child(2)\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:54215}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2f22942221839c0d835ffcda778906ab\n*** Element info: {Using=css selector, value=div.mid-nav > div:nth-child(1) > div:nth-child(2)}",
+      "time" : {
+        "start" : 1600513788906,
+        "stop" : 1600513813089,
+        "duration" : 24183
+      }
+    }, {
+      "uid" : "8d0e9f82f06d9d25",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.mid-nav > div:nth-child(1) > div:nth-child(2)\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:53221}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 15c81b0bcb2468fcbc2c1eb95922da67\n*** Element info: {Using=css selector, value=div.mid-nav > div:nth-child(1) > div:nth-child(2)}",
+      "time" : {
+        "start" : 1600513510890,
+        "stop" : 1600513534946,
+        "duration" : 24056
+      }
+    }, {
+      "uid" : "5f3ed113939c6183",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"div.mid-nav > div:nth-child(1) > div:nth-child(2)\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:52912}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a8990228266ea75cf87f2bdd79ae5e77\n*** Element info: {Using=css selector, value=div.mid-nav > div:nth-child(1) > div:nth-child(2)}",
+      "time" : {
+        "start" : 1600513457439,
+        "stop" : 1600513481519,
+        "duration" : 24080
+      }
+    }, {
+      "uid" : "93bed677c487471a",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#txtUsernameP\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:52274}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 34212f0d355ef3befdb9a66e3374830a\n*** Element info: {Using=id, value=txtUsernameP}",
+      "time" : {
+        "start" : 1600513345079,
+        "stop" : 1600513345080,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "21cd770ca1ba56e",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#txtFName\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:1c3c:a9b7:e341:bd23%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:51606}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bfc4a83c164bdf6546994fac0a61d148\n*** Element info: {Using=id, value=txtFName}",
+      "time" : {
+        "start" : 1600513210772,
+        "stop" : 1600513210772,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "702b1fb0e755ab96.json",
+  "parameterValues" : [ ]
+}

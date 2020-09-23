@@ -1,0 +1,4 @@
+# Created at 2020-09-16T06:50:47.992
+
+An error occurred while instantiating class test.Automation.LoginTest: class test.Automation.BasePageTest (in unnamed module @0x6b1274d2) cannot access class com.sun.org.slf4j.internal.LoggerFactory (in module java.xml.crypto) because module java.xml.crypto does not export com.sun.org.slf4j.internal to unnamed module @0x6b1274d2
+

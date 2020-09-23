@@ -1,0 +1,76 @@
+{
+  "uid" : "d8dc16f473a4485a",
+  "name" : "checkMakeUpPageTest",
+  "fullName" : "test.Automation.MakeUpPageTest.checkMakeUpPageTest",
+  "historyId" : "e923108d994b522f8047f5d8357e0c77",
+  "time" : {
+    "start" : 1600734305573,
+    "stop" : 1600734307580,
+    "duration" : 2007
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600734276936,
+      "stop" : 1600734285368,
+      "duration" : 8432
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "test.Automation.MakeUpPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "test.Automation.MakeUpPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkMakeUpPageTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "test.Automation.MakeUpPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Jasss-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "2994@Jasss-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8dc16f473a4485a.json",
+  "parameterValues" : [ ]
+}

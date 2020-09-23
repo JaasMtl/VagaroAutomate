@@ -1,0 +1,14 @@
+page/Automation/FitnessPage.class
+page/Automation/BasePage.class
+page/Automation/ProductPage.class
+page/Automation/GalleryPage.class
+page/Automation/AppointmentPage.class
+page/Automation/MyProfilePage.class
+page/Automation/PopularInMontrealPage.class
+page/Automation/ReviewPage.class
+page/Automation/InvoicesPage.class
+page/Automation/ProfessionalPage.class
+page/Automation/ListBusinessPage.class
+page/Automation/MakeUpPage.class
+page/Automation/DailyDealsPage.class
+page/Automation/FooterPage.class

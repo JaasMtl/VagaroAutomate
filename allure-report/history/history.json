@@ -1,0 +1,168 @@
+{
+  "eb240961360f847719257ee09ef0810" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44e38752503c0084",
+      "reportUrl" : "http://localhost:8080/job/VagaroProjectnew/1/allure/#testresult/44e38752503c0084",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#txtFName\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MacBook-Pro.local', ip: 'fe80:0:0:0:c0:34b5:2bf3:ffc8%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:59375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 267641b2783af98b5bfc320503eea520\n*** Element info: {Using=id, value=txtFName}",
+      "time" : {
+        "start" : 1600730777872,
+        "stop" : 1600730777874,
+        "duration" : 2
+      }
+    } ]
+  },
+  "e923108d994b522f8047f5d8357e0c77" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "209c45da7d392e35",
+      "reportUrl" : "http://localhost:8080/job/VagaroProjectnew/1/allure/#testresult/209c45da7d392e35",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a href=\"javascript:void(0);\" class=\"homeIcon-center clsnewfilter\" id=\"btnAtBusiness\" onclick=\"togglesearchmodeforselection(2,this, true); _featured.changeBusSearchType(this, 2 ,true); \">...</a> is not clickable at point (76, 79). Other element would receive the click: <div id=\"select2-drop-mask\" class=\"select2-drop-mask hidemask\" style=\"\"></div>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:181e:a9b7:c4c2:726b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:50244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a9554aa44b8e14ac48f3ca2479c0d9ee",
+      "time" : {
+        "start" : 1600856347967,
+        "stop" : 1600856349026,
+        "duration" : 1059
+      }
+    } ]
+  },
+  "172e14f0c50eede79ae31cda7cc046b5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "702b1fb0e755ab96",
+      "reportUrl" : "http://localhost:8080/job/VagaroProjectnew/1/allure/#testresult/702b1fb0e755ab96",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600730196829,
+        "stop" : 1600730196830,
+        "duration" : 1
+      }
+    } ]
+  },
+  "e4c2ccf459fc7046661eeb0e6b5c52d5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "621a39698789a2e2",
+      "reportUrl" : "http://localhost:8080/job/VagaroProjectnew/1/allure/#testresult/621a39698789a2e2",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MacBook-Pro.local', ip: 'fe80:0:0:0:c0:34b5:2bf3:ffc8%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:59050}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 10d924fd08cbf2e611a9c086e7e9d956\n*** Element info: {Using=css selector, value=a[class='list-your-business small w-hidden-medium lnkLogin']}",
+      "time" : {
+        "start" : 1600730733440,
+        "stop" : 1600730733440,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c98f1217044f8d0c7116cfd10b403d16" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "efc1ba80a12d2e0f",
+      "reportUrl" : "http://localhost:8080/job/VagaroProjectnew/1/allure/#testresult/efc1ba80a12d2e0f",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:181e:a9b7:c4c2:726b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:50244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a9554aa44b8e14ac48f3ca2479c0d9ee",
+      "time" : {
+        "start" : 1600856327776,
+        "stop" : 1600856347858,
+        "duration" : 20082
+      }
+    } ]
+  },
+  "a700da1d0d019452f1958044ad139ded" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "380d9ca217b19376",
+      "reportUrl" : "http://localhost:8080/job/VagaroProjectnew/1/allure/#testresult/380d9ca217b19376",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600512267841,
+        "stop" : 1600512267842,
+        "duration" : 1
+      }
+    } ]
+  },
+  "858ca7c10164916c6e79962bcc535732" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2680dd155a2f10c6",
+      "reportUrl" : "http://localhost:8080/job/VagaroProjectnew/1/allure/#testresult/2680dd155a2f10c6",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#txtFName\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MacBook-Pro.local', ip: 'fe80:0:0:0:c0:34b5:2bf3:ffc8%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:59375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 267641b2783af98b5bfc320503eea520\n*** Element info: {Using=id, value=txtFName}",
+      "time" : {
+        "start" : 1600730777866,
+        "stop" : 1600730777867,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f8f9d0e9398735bd5e38628e4b7c8e6e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdad259ef7c31ad6",
+      "reportUrl" : "http://localhost:8080/job/VagaroProjectnew/1/allure/#testresult/fdad259ef7c31ad6",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <input type=\"text\" autocomplete=\"true\" autocorrect=\"off\" autocapitalize=\"off\" spellcheck=\"false\" class=\"select2-input select2-focused\" id=\"s2id_autogen5\" maxlength=\"100\" placeholder=\"Search Services and Classes\" style=\"width: 248px;\"> is not clickable at point (539, 79). Other element would receive the click: <div id=\"select2-drop-mask\" class=\"select2-drop-mask hidemask\" style=\"\"></div>\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MacBook-Pro.local', ip: 'fe80:0:0:0:c0:34b5:2bf3:ffc8%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:65143}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c13772f649ceb6d378677059ef6b3207",
+      "time" : {
+        "start" : 1600741709164,
+        "stop" : 1600741709166,
+        "duration" : 2
+      }
+    } ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MacBook-Pro.local', ip: 'fe80:0:0:0:c0:34b5:2bf3:ffc8%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:59050}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 10d924fd08cbf2e611a9c086e7e9d956\n*** Element info: {Using=css selector, value=a[class='list-your-business small w-hidden-medium lnkLogin']}",
+      "children" : [ {
+        "name" : "setUpClass",
+        "uid" : "621a39698789a2e2",
+        "parentUid" : "483229ba20339d167573feb9c2abaae9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600730733440,
+          "stop" : 1600730733440,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "483229ba20339d167573feb9c2abaae9"
+    }, {
+      "name" : "element click intercepted: Element <input type=\"text\" autocomplete=\"true\" autocorrect=\"off\" autocapitalize=\"off\" spellcheck=\"false\" class=\"select2-input select2-focused\" id=\"s2id_autogen5\" maxlength=\"100\" placeholder=\"Search Services and Classes\" style=\"width: 248px;\"> is not clickable at point (539, 79). Other element would receive the click: <div id=\"select2-drop-mask\" class=\"select2-drop-mask hidemask\" style=\"\"></div>\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MacBook-Pro.local', ip: 'fe80:0:0:0:c0:34b5:2bf3:ffc8%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:65143}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c13772f649ceb6d378677059ef6b3207",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "fdad259ef7c31ad6",
+        "parentUid" : "da499bbbc13274aa397f357f921485fe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600741709164,
+          "stop" : 1600741709166,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da499bbbc13274aa397f357f921485fe"
+    }, {
+      "name" : "element not interactable\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:181e:a9b7:c4c2:726b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:50244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a9554aa44b8e14ac48f3ca2479c0d9ee",
+      "children" : [ {
+        "name" : "landingPageOn",
+        "uid" : "efc1ba80a12d2e0f",
+        "parentUid" : "c44d109016386bc62ea58a11382dd960",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600856327776,
+          "stop" : 1600856347858,
+          "duration" : 20082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c44d109016386bc62ea58a11382dd960"
+    }, {
+      "name" : "element click intercepted: Element <a href=\"javascript:void(0);\" class=\"homeIcon-center clsnewfilter\" id=\"btnAtBusiness\" onclick=\"togglesearchmodeforselection(2,this, true); _featured.changeBusSearchType(this, 2 ,true); \">...</a> is not clickable at point (76, 79). Other element would receive the click: <div id=\"select2-drop-mask\" class=\"select2-drop-mask hidemask\" style=\"\"></div>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Jasss-MBP', ip: 'fe80:0:0:0:181e:a9b7:c4c2:726b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:50244}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a9554aa44b8e14ac48f3ca2479c0d9ee",
+      "children" : [ {
+        "name" : "checkMakeUpPageTest",
+        "uid" : "209c45da7d392e35",
+        "parentUid" : "6d1e58e9a88f1af20d027d111245f9f5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600856347967,
+          "stop" : 1600856349026,
+          "duration" : 1059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6d1e58e9a88f1af20d027d111245f9f5"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

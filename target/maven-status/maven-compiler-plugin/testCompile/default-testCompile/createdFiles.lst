@@ -1,0 +1,16 @@
+test/Automation/ListBusinessPageTest.class
+test/Automation/ProductPageTest.class
+test/Automation/BasePageTest.class
+test/Automation/ReviewPageTest.class
+test/Automation/PopularMontrealTest.class
+test/Automation/FitnessPageTest.class
+test/Automation/ProfessionalPageTest.class
+test/Automation/AppointmentTest.class
+test/Automation/MakeUpPageTest.class
+test/Automation/FooterPageTest.class
+test/Automation/MyProfilePageTest.class
+test/Automation/GalleryTest.class
+test/Automation/DailyDealsPageTest.class
+test/Automation/InvoicePageTest.class
+utils/PropertyFilesUtils.class
+test/Automation/LandingPageTest.class

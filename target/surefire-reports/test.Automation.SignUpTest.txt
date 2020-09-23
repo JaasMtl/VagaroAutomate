@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: test.Automation.SignUpTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 28.7 s <<< FAILURE! - in test.Automation.SignUpTest
+signUp(test.Automation.SignUpTest)  Time elapsed: 26.313 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=84.0.4147.135)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jasss-MacBook-Pro.local', ip: 'fe80:0:0:0:8e7:58cc:2594:a51d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.6', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 84.0.4147.135, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/04/zk6_fsz10yx...}, goog:chromeOptions: {debuggerAddress: localhost:53622}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 574035ff4f4784e54f9d94cb3590e4a6
+	at test.Automation.SignUpTest.signUp(SignUpTest.java:45)
+

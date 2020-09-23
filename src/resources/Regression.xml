@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="Regression1" >
+        <classes>
+            <class name="test.Automation.LandingPageTest"/>
+            <!--class name="test.Automation.LoginTest"/-->
+            <!--class name="test.Automation.InvoicePageTest"/-->
+            <!--class name="test.Automation.PopularMontrealTest"/-->
+            <!--class name="test.Automation.ReviewPageTest"/-->
+            <!--class name="test.Automation.ListBusinessPageTest"/-->
+            <class name="test.Automation.MakeUpPageTest"/>
+            <!--class name="test.Automation.FitnessPageTest"/-->
+            <!--class name="test.Automation.MyProfilePageTest"/-->
+            <!--class name="test.Automation.ProductPageTest"/-->
+            <!--class name="test.Automation.DailyDealsPageTest"/-->
+            <!--class name="test.Automation.BasePageTest"/-->
+            <!--class name="test.Automation.GalleryTest"/-->
+            <!--class name="test.Automation.ProfessionalPageTest"/-->
+            <!--class name="test.Automation.FooterPageTest"/-->
+            <!--class name="test.Automation.DailyDealsPageTest" /-->
+        </classes>
+    </test>
+</suite>

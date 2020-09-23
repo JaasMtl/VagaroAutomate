@@ -1,0 +1,76 @@
+{
+  "uid" : "f2b1432e677007ff",
+  "name" : "landingPageOn",
+  "fullName" : "test.Automation.LandingPageTest.landingPageOn",
+  "historyId" : "c98f1217044f8d0c7116cfd10b403d16",
+  "time" : {
+    "start" : 1600514438891,
+    "stop" : 1600514441045,
+    "duration" : 2154
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600514433177,
+      "stop" : 1600514438821,
+      "duration" : 5644
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "test.Automation.LandingPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "test.Automation.LandingPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "landingPageOn"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite1"
+  }, {
+    "name" : "suite",
+    "value" : "Regression1"
+  }, {
+    "name" : "subSuite",
+    "value" : "test.Automation.LandingPageTest"
+  }, {
+    "name" : "host",
+    "value" : "Jasss-MBP"
+  }, {
+    "name" : "thread",
+    "value" : "2859@Jasss-MBP.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2b1432e677007ff.json",
+  "parameterValues" : [ ]
+}
